@@ -1,0 +1,2 @@
+# NextJSDatabaseProject
+NextJSDatabaseProject - learning tool
